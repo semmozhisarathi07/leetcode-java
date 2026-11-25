@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "array",
+    "name": "Array",
+    "tagId": "5"
+  },
+  "updatedAt": "2026-11-25T09:50:48.373Z",
+  "problems": [
+    {
+      "frontendId": "238",
+      "title": "Product of Array Except Self",
+      "slug": "product-of-array-except-self",
+      "problemName": "0238-product-of-array-except-self",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/product-of-array-except-self/",
+      "folderPath": "0238-product-of-array-except-self/",
+      "readmePath": "0238-product-of-array-except-self/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0238-product-of-array-except-self.java",
+          "path": "0238-product-of-array-except-self/0238-product-of-array-except-self.java",
+          "sha": "09dd8005192b0e486be12b7330b0ff26ab5cb634",
+          "lastSyncedAt": "2026-11-25T09:50:48.373Z"
+        }
+      ]
+    }
+  ]
+}
