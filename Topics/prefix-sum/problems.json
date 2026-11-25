@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-11-25T09:50:48.373Z",
+  "updatedAt": "2026-11-25T09:51:03.376Z",
   "problems": [
     {
       "frontendId": "238",
@@ -24,6 +24,26 @@
           "path": "0238-product-of-array-except-self/0238-product-of-array-except-self.java",
           "sha": "09dd8005192b0e486be12b7330b0ff26ab5cb634",
           "lastSyncedAt": "2026-11-25T09:50:48.373Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "525",
+      "title": "Contiguous Array",
+      "slug": "contiguous-array",
+      "problemName": "0525-contiguous-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/contiguous-array/",
+      "folderPath": "0525-contiguous-array/",
+      "readmePath": "0525-contiguous-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0525-contiguous-array.java",
+          "path": "0525-contiguous-array/0525-contiguous-array.java",
+          "sha": "3a8cd61797dd69139da20799ab395b2c45cd51cb",
+          "lastSyncedAt": "2026-11-25T09:51:03.376Z"
         }
       ]
     }
